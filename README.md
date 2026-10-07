@@ -1,5 +1,5 @@
 # Currency Exchange Data Pipeline
-#The video link for the explanation of the project[https://drive.google.com/file/d/11v5D3TfADSf9jgwEJv-8TgOKoMNoM8-I/view?usp=sharing]
+#The video link for the explanation of the project [https://drive.google.com/file/d/11v5D3TfADSf9jgwEJv-8TgOKoMNoM8-I/view?usp=sharing]
 
 A daily data pipeline that loads exchange rates for **UZS, RUB, EUR and GBP** (base **USD**)
 from the [Frankfurter API](https://frankfurter.dev) into a SQLite database, following the
